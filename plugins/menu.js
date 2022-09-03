@@ -43,14 +43,14 @@ const defaultMenu = {
 
 〽️ Prefix: *%p*
 📅 Date: *%week, %date*
-💠 Github: github.com/itsajaygaur/tokio-wabot
+💠 Github: github.com/rilrealsi
 
 👇🏻 All usable commands are listed below 
 
 %readmore`.trimStart(),
   header: '        *━━❰･%category･❱━━*',
   body: ' 🌠 %cmd %islimit %isPremium',
-  footer: ' ',
+  footer: 'Sano - Md',
   after: `🌟 *Hope you're enjoying bot, have a great day* 
 `,
 }
